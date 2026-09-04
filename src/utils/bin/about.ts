@@ -18,7 +18,6 @@ const about = async (): Promise<string> => {
 -----------
  ABOUT ME
  ${config.name}
- <u><a href="https://github.com/joshle298/JoshuaLeResume/blob/main/JoshuaLeResume.pdf" target="_blank">Resume</a></u>        
 爵 I’m a senior at NYU studying Computer Science 
 with a minor in Mathematics. I've held the title of Software 
 Engineering Intern at Gusto, Apple, Wayfair, and SendBlue (startup).
